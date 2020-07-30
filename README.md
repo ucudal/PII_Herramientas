@@ -46,7 +46,7 @@ Este documento contiene la lista de herramientas que usaremos en el curso, con l
 Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, completado inteligente de código, etc. Es personalizable, por lo que podrás cambiar el tema del editor, los atajos de teclado y las preferencias. Es gratuito y de código abierto. Las instrucciones de instalación están disponibles a través de este <a href="https://code.visualstudio.com/download">🌎vínculo de descarga</a>. 
 
 
-<h3 id="vscodeext">4. <a>Extensiones de Visual Studio Code</a></h3>
+<h3 id="vscodeext">4. <a href="#content">Extensiones de Visual Studio Code</a></h3>
 Es necesario instalar las siguientes extensiones luego de instalar Visual Studio Code. Debes estar conectado a Internet durante el proceso de instalación. Abre el vínculo de descarga y haz clic en el botón Install.
 
 <h4 id="csharpext">4.1 <a href="#content">Extensiones de C#</a></h4>

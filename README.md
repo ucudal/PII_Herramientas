@@ -33,8 +33,10 @@
 5. <a href="#github">GitHub</a>
    
 6. <a href="#githubdesktop">GitHub Desktop</a>
+
+7. <a href="#git">Git</a>
    
-7. <a href="#docfx">DocFX</a>
+8. <a href="#docfx">DocFX</a>
 ---
 
 <h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>
@@ -90,7 +92,10 @@ Los profesores veremos el código y las interacciones en GitHub de todos los alu
 <h3 id="githubdesktop">6. <a href="#content">GitHub Desktop</a></h3>
 GitHub Desktop es una aplicación de escritorio para el uso de GitHub. Las instrucciones de instalación están disponibles a través de este <a href="https://desktop.github.com/">🌎vínculo de descarga</a>. 
 
-<h3 id="docfx">7. <a href="#content">DocFX</a></h3>
+<h3 id="git">7. <a href="#content">Git</a></h3>
+Para poder gestionar los repositorios de GitHub a través de aplicación de escritorio o de la consola se requiere instalar Git SCM. Las instrucciones de instalación están disponibles a través de este <a href="https://git-scm.com/downloads">🌎vínculo de descarga</a>. 
+
+<h3 id="docfx">8. <a href="#content">DocFX</a></h3>
 Es un paquete para la generación de sitios web de documentación a partir de comentarios XML. Es posible instalar DocFX a través de un manejador de paquetes <a href="https://chocolatey.org/">Chololatey</a>, pero es necesario instalar el manejador primero.También es posible instalarlo a través del manejador de paquetes <a href="https://www.nuget.org/">NuGet</a>, desde la consola de Visual Studio Code. Por último, también es posible hacer una instalación manual, que implica modificar la variable de entorno PATH.
 
 >🌎 Instalación

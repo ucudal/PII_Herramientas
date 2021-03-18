@@ -40,7 +40,7 @@
 ---
 
 <h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>
-Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Asumimos que instalas las herramientas en Windows;en caso que uses otro sistema operativo, consulta a los profesores.
+Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Asumimos que Instalarás las herramientas en Windows;en caso que uses otro sistema operativo, consulta a los profesores.
 
 <h3 id="dotnet">2. <a href="#content">.NET 5.0</a></h3>
 .NET 5.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>. 

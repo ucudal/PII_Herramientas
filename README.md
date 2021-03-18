@@ -42,8 +42,8 @@
 <h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>
 Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Asumimos que instalas las herramientas en Windows;en caso que uses otro sistema operativo, consulta a los profesores.
 
-<h3 id="dotnet">2. <a href="#content">.NET Core SDK</a></h3>
-.NET Core es una implementación .NET multiplataforma para sitios web, servidores y aplicaciones de consola en Windows, Linux y macOS. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>. 
+<h3 id="dotnet">2. <a href="#content">.NET 5.0</a></h3>
+.NET 5.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>. 
 
 
 <h3 id="vscode">3. <a href="#content">Visual Studio Code</a></h3>

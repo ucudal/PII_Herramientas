@@ -10,7 +10,7 @@
 
 1. <a href="#about">Acerca de este documento</a>
    
-2. <a href="#dotnet">.NET Core SDK</a>
+2. <a href="#dotnet">.NET 5.0</a>
    
 3. <a href="#vscode">Visual Studio Code</a>
    

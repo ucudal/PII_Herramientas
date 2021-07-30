@@ -36,7 +36,7 @@
 
 7. <a href="#git">Git</a>
    
-8. <a href="#docfx">DocFX</a>
+8. <a href="#doxygen">Doxygen</a>
 ---
 
 <h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>

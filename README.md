@@ -83,7 +83,7 @@ Es un complemento para mostrar en los márgenes del editor la cobertura del cód
 <h4 id="iconext">4.7 <a href="#content">Extensión de íconos</a></h4>
 Es un complemento que incluye un conjunto de íconos para las extensiones de archivos más comunes. Es opcional. <a href="https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme">🌎Descargar</a>
 
-<h4 id="spell">4.7 <a href="#content">Extensión de corrector ortográfico</a></h4>
+<h4 id="spell">4.8 <a href="#content">Extensión de corrector ortográfico</a></h4>
 Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales.
 
 <h3 id="github">5. <a href="#content">GitHub</a></h3>

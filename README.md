@@ -94,6 +94,7 @@ Los profesores veremos el código y las interacciones en GitHub de todos los alu
 Para poder gestionar los repositorios de GitHub a través de aplicación de escritorio o de la consola, se requiere instalar Git SCM. Las instrucciones de instalación están disponibles a través de este <a href="https://git-scm.com/downloads">🌎vínculo de descarga</a>. 
 
 <h3 id="doxygen">8. <a href="#content">Doxygen</a></h3>
+
 Es un paquete para la generación de sitios web de documentación a partir de comentarios XML. 
 
 >Las instrucciones de instalación están disponibles en la página <a ref="https://www.doxygen.nl/download.html"> en la sección "A binary distribution for Linux x86-64", "A binary distribution for Windows" o "A binary distribution for Mac OS X 10.14 and later"; usa la que corresponda según el sistema operativo que tengas.

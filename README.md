@@ -96,6 +96,8 @@ Para poder gestionar los repositorios de GitHub a través de aplicación de escr
 <h3 id="doxygen">8. <a href="#content">Doxygen</a></h3>
 Es un paquete para la generación de sitios web de documentación a partir de comentarios XML. 
 
->🌎 Instalación
->
 >Las instrucciones de instalación están disponibles en la página <a ref="https://www.doxygen.nl/download.html"> en la sección "A binary distribution for Linux x86-64", "A binary distribution for Windows" o "A binary distribution for Mac OS X 10.14 and later"; usa la que corresponda según el sistema operativo que tengas.
+
+   <a href="https://www.doxygen.nl/download.html">🌎 Instalación</a>
+
+

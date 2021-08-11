@@ -43,16 +43,16 @@
 Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Asumimos que Instalarás las herramientas en Windows;en caso que uses otro sistema operativo, consulta a los profesores.
 
 <h3 id="dotnet">2. <a href="#content">.NET 5.0</a></h3>
-.NET 5.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>.
+.NET 5.0 es la nueva plataforma unificada de Microsoft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a> (SDK Version).
 
 >◬ Importante
-> Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrudciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
+> Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrucciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
 
 <h3 id="vscode">3. <a href="#content">Visual Studio Code</a></h3>
 Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, completado inteligente de código, etc. Es personalizable, por lo que podrás cambiar el tema del editor, los atajos de teclado y las preferencias. Es gratuito y de código abierto. Las instrucciones de instalación están disponibles a través de este <a href="https://code.visualstudio.com/download">🌎vínculo de descarga</a>.
 
 >◬ Importante
-> Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrudciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
+> Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrucciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
 
 <h3 id="vscodeext">4. <a href="#content">Extensiones de Visual Studio Code</a></h3>
 
@@ -88,7 +88,6 @@ Son complementos que controlan la ortografía en <a href="https://marketplace.vi
 GitHub es un servicio en línea para desarrollar programas en forma colaborativa. Está basado en Git e incluye funcionalidad adicional útil para el desarrollo de algunas competencias de este curso.
 
 >◬ Importante
->
 >El código de los programas en GitHub que crees y las interacciones en marco del desarrollo colaborativo de esos programas es público.
 
 Los profesores veremos el código y las interacciones en GitHub de todos los alumnos; eventualmente modificaremos ese código o participaremos en las interacciones. Los profesores también proveeremos código en GitHub. Debes crear una cuenta en GitHub, o puedes usar una cuenta que ya tengas creada. Ya sea que crees una cuenta nueva, o que uses una que ya tengas, ten en cuenta que deberás usar la misma cuenta a lo largo de todo el curso. Los profesores te preguntaremos el nombre de usuario de <a href="https://github.com/join">GitHub</a>.

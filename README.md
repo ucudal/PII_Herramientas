@@ -10,7 +10,7 @@
 
 1. <a href="#about">Acerca de este documento</a>
 
-2. <a href="#dotnet">.NET 5.0</a>
+2. <a href="#dotnet">.NET 6.0</a>
 
 3. <a href="#vscode">Visual Studio Code</a>
 
@@ -102,5 +102,3 @@ Es un paquete para la generación de sitios web de documentación a partir de co
 >Las instrucciones de instalación están disponibles en la página <a ref="https://www.doxygen.nl/download.html"> en la sección "A binary distribution for Linux x86-64", "A binary distribution for Windows" o "A binary distribution for Mac OS X 10.14 and later"; usa la que corresponda según el sistema operativo que tengas.
 
    <a href="https://www.doxygen.nl/download.html">🌎 Instalación</a>
-
-

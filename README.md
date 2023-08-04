@@ -10,13 +10,13 @@
 
 1. <a href="#about">Acerca de este documento</a>
 
-2. <a href="#dotnet">.NET 6.0</a>
+2. <a href="#dotnet">.NET 7.0</a>
 
 3. <a href="#vscode">Visual Studio Code</a>
 
 4. <a href="#vscodeext">Extensiones de Visual Studio Code</a>
 
-   4.1. <a href="#csharpext">Extensión de C#</a>
+   4.1. <a href="#csharpext">Extensión de C# Dev Kit</a>
 
    4.2. <a href="#xmlext">Extensión de comentarios XML</a>
 
@@ -42,8 +42,8 @@
 <h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>
 Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Asumimos que Instalarás las herramientas en Windows;en caso que uses otro sistema operativo como MacOS o Unix, consulta a los profesores.
 
-<h3 id="dotnet">2. <a href="#content">.NET 6.0</a></h3>
-.NET 6.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>.
+<h3 id="dotnet">2. <a href="#content">.NET 7.0</a></h3>
+.NET 7.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>.
 
 >◬ Importante
 > Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrucciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
@@ -59,9 +59,9 @@ Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y 
 >◬ Importante
 > Es necesario instalar las siguientes extensiones **luego** de instalar Visual Studio Code. Debes estar conectado a Internet durante el proceso de instalación. Abre el vínculo de descarga y haz clic en el botón Install.
 
-<h4 id="csharpext">4.1 <a href="#content">Extensiones de C#</a></h4>
+<h4 id="csharpext">4.1 <a href="#content">Extensiones de C# Dev Kit</a></h4>
 Es un complemento para editar, compilar, y depurar código C#.
-<a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">🌎Descargar</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit">🌎Descargar</a>
 
 <h4 id="xmlext">4.2 <a href="#content">Extensión de comentarios XML</a></h4>
 Es un complemento para editar comentarios XML. Los comentarios XML son comentarios que comienzan con /// y pueden incluir etiquetas que son utilizadas luego para generar documentación en lenguaje XML. <a href="https://marketplace.visualstudio.com/items?itemName=k--kato.docomment">🌎Descargar</a>

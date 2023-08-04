@@ -24,13 +24,11 @@
 
    4.4. <a href="#githubhistext">Extensión de GitHub History</a>
 
-   4.5. <a href="#testext">Extensión de explorador de casos de prueba</a>
+   4.5. <a href="#coverageext">Extensión de indicadores de cobertura en los márgenes</a>
 
-   4.6. <a href="#coverageext">Extensión de indicadores de cobertura en los márgenes</a>
+   4.6. <a href="#iconext">Extensión de íconos</a>
 
-   4.7. <a href="#iconext">Extensión de íconos</a>
-
-   4.8  <a href="#spell">Extensión de corrector ortográfico</a>
+   4.7  <a href="#spell">Extensión de corrector ortográfico</a>
 
 5. <a href="#github">GitHub</a>
 
@@ -72,16 +70,13 @@ Es un complemento para interactuar con pull requests de GitHub. Los pull request
 <h4 id="githubhistext">4.4 <a href="#content">Extensión de GitHub History </a></h4>
 Es un complemento que nos permite ver gráficamente las ramas de nuestro proyecto, las historia de nuestros archivos y las información de los commits. <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">🌎Descargar</a>
 
-<h4 id="testext">4.5 <a href="#content">Extensión de explorador de casos de prueba</a></h4>
-Es un complemento para manejar casos de prueba. Los casos de prueba son clases que utilizan un framework para probar tu propio código. Es opcional. <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer">🌎Descargar</a>
-
-<h4 id="coverageext">4.6 <a href="#content">Extensión de indicadores de cobertura en los márgenes</a></h4>
+<h4 id="coverageext">4.5 <a href="#content">Extensión de indicadores de cobertura en los márgenes</a></h4>
 Es un complemento para mostrar en los márgenes del editor la cobertura del código. Es útil para saber el código que no se ejecuta durante las pruebas. Es opcional. <a href="https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters">🌎Descargar</a>
 
-<h4 id="iconext">4.7 <a href="#content">Extensión de íconos</a></h4>
+<h4 id="iconext">4.6 <a href="#content">Extensión de íconos</a></h4>
 Es un complemento que incluye un conjunto de íconos para las extensiones de archivos más comunes. Es opcional. <a href="https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme">🌎Descargar</a>
 
-<h4 id="spell">4.8 <a href="#content">Extensión de corrector ortográfico</a></h4>
+<h4 id="spell">4.7 <a href="#content">Extensión de corrector ortográfico</a></h4>
 Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales.
 
 <h3 id="github">5. <a href="#content">GitHub</a></h3>

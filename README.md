@@ -96,4 +96,8 @@ Es un paquete para la generación de sitios web de documentación a partir de co
 
 >Las instrucciones de instalación están disponibles en la página <a ref="https://www.doxygen.nl/download.html"> en la sección "A binary distribution for Linux x86-64", "A binary distribution for Windows" o "A binary distribution for Mac OS X 10.14 and later"; usa la que corresponda según el sistema operativo que tengas.
 
-   <a href="https://www.doxygen.nl/download.html">🌎 Instalación</a>
+<a href="https://www.doxygen.nl/download.html">🌎 Instalación</a>
+
+> :warning: En Mac OS puede usar el comando `brew install doxygen`; [aquí](https://formulae.brew.sh/formula/doxygen) puedes obtener más información.
+
+> :warning: En Windows puede suceder que durante la instalación no agregue la carpeta donde está `doxygen.exe` a la variable de entorno `PATH`. En ese caso debes [modificar esa variable de entorno](https://learn.microsoft.com/es-es/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)#:~:text=Para%20agregar%20una%20ruta%20de%20acceso%20a%20la%20variable%20de%20entorno%20PATH) para agregar la carpeta donde está `doxygen.exe`, por ejemplo, `C:\Program Files (x86)\doxygen`.

@@ -10,7 +10,7 @@
 
 1. <a href="#about">Acerca de este documento</a>
 
-2. <a href="#dotnet">.NET 7.0</a>
+2. <a href="#dotnet">.NET 8.0</a>
 
 3. <a href="#vscode">Visual Studio Code</a>
 
@@ -38,8 +38,8 @@
 <h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>
 Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Asumimos que Instalarás las herramientas en Windows;en caso que uses otro sistema operativo como MacOS o Unix, consulta a los profesores.
 
-<h3 id="dotnet">2. <a href="#content">.NET 7.0</a></h3>
-.NET 7.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>.
+<h3 id="dotnet">2. <a href="#content">.NET 8.0</a></h3>
+.NET 8.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>.
 
 >:warning: Importante
 > Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrucciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase

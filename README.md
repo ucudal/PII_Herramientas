@@ -10,11 +10,15 @@
 
 1. <a href="#about">Acerca de este documento</a>
 
-2. <a href="#dotnet">.NET 8.0</a>
+<!-- 2. <a href="#dotnet">.NET 8.0</a> -->
 
-3. <a href="#vscode">Visual Studio Code</a>
+3. <a href="#rider">Rider</a>
 
-4. <a href="#vscodeext">Extensiones de Visual Studio Code</a>
+<!-- 3. <a href="#vscode">Visual Studio Code</a> -->
+
+4. <a href="#riderext">Extensiones de Rider</a>
+
+<!-- 4. <a href="#vscodeext">Extensiones de Visual Studio Code</a>
 
    4.1. <a href="#csharpext">Extensión de C# Dev Kit</a>
 
@@ -26,7 +30,7 @@
 
    4.5. <a href="#iconext">Extensión de íconos</a>
 
-   4.6  <a href="#spell">Extensión de corrector ortográfico</a>
+   4.6  <a href="#spell">Extensión de corrector ortográfico</a> -->
 
 5. <a href="#github">GitHub</a>
 
@@ -44,13 +48,33 @@ Este documento contiene la lista de herramientas que usaremos en el curso, con l
 >:warning: Importante
 > Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrucciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
 
-<h3 id="vscode">3. <a href="#content">Visual Studio Code</a></h3>
+<!-- <h3 id="vscode">3. <a href="#content">Visual Studio Code</a></h3>
 Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, completado inteligente de código, etc. Es personalizable, por lo que podrás cambiar el tema del editor, los atajos de teclado y las preferencias. Es gratuito y de código abierto. Las instrucciones de instalación están disponibles a través de este <a href="https://code.visualstudio.com/download">🌎vínculo de descarga</a>.
 
 >:warning: Importante
-> Puedes descargar el instalador e instalarlo tu mismo siguiendo las instrucciones provistas o instalarlo en clase; trae el programa de instalación descargado para la próxima clase
+> Puedes descargar el instalador e instalarlo tu mismo siguiendo las
+> instrucciones provistas o instalarlo en clase; trae el programa de instalación
+> descargado para la próxima clase -->
 
-<h3 id="vscodeext">4. <a href="#content">Extensiones de Visual Studio Code</a></h3>
+<h3 id="rider">3. <a href="#content">Rider</a></h3>
+
+Rider es un IDE multiplataforma para desarrollo en .NET desarrollado por
+JetBrains que puede ser utilizado con una licencia académica.
+
+> :warning: Importante
+> Debes usar tu cuenta de correo de la UCU del dominio @correoucu.edu.uy para
+> crear tu cuenta en JetBrains
+
+Para obtener tu licencia debes crear primero una cuenta en JetBrains
+[aquí](https://www.jetbrains.com/community/education/#students).
+
+Esta licencia te dará acceso a varios productos; a menos que en tu trabajo o en
+otros cursos uses otras herramientas de JetBrains, deberás instalar solamente
+Rider a través de este <a
+href="https://www.jetbrains.com/shop/download/RD/2024100">🌎vínculo de
+descarga</a>.
+
+<!-- <h3 id="vscodeext">4. <a href="#content">Extensiones de Visual Studio Code</a></h3>
 
 >:warning: Importante
 > Es necesario instalar las siguientes extensiones **luego** de instalar Visual Studio Code. Debes estar conectado a Internet durante el proceso de instalación. Abre el vínculo de descarga y haz clic en el botón Install.
@@ -72,7 +96,17 @@ Es un complemento para mostrar en los márgenes del editor la cobertura del cód
 Es un complemento que incluye un conjunto de íconos para las extensiones de archivos más comunes. Es opcional. <a href="https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme">🌎Descargar</a>
 
 <h4 id="spell">4.6 <a href="#content">Extensión de corrector ortográfico</a></h4>
-Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales.
+Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales. -->
+
+<h3 id="riderext">4. <a href="#content">Extensiones de Rider</a></h3>
+
+>:warning: Importante
+> Es necesario instalar las siguientes extensiones **luego** de instalar Rider.
+> Debes estar conectado a Internet durante el proceso de instalación.
+
+<!-- TODO: Explicar cómo instalar extensiones... -->
+
+Por ahora no hay extensiones recomendadas.
 
 <h3 id="github">5. <a href="#content">GitHub</a></h3>
 GitHub es un servicio en línea para desarrollar programas en forma colaborativa. Está basado en Git e incluye funcionalidad adicional útil para el desarrollo de algunas competencias de este curso.

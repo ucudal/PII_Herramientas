@@ -7,17 +7,21 @@ width="150"/>
 
 # Herramientas del curso
 
-<h2 id="content">Contenido</h2>
+<!-- <h2 id="content">Contenido</h2> -->
+## Contenido
 
-1. <a href="#about">Acerca de este documento</a>
+<!-- 1. <a href="#about">Acerca de este documento</a> -->
 
-<!-- 2. <a href="#dotnet">.NET 8.0</a> -->
+1. [Acerca de este documento](#acerca-de-este-documento)
 
-3. <a href="#rider">Rider</a>
+2.[NET 8.0](#net-80)
+
+
+3. [Rider](#rider)
 
 <!-- 3. <a href="#vscode">Visual Studio Code</a> -->
 
-4. <a href="#riderext">Extensiones de Rider</a>
+4. [Extensiones de Rider](#extensiones-de-rider)
 
 <!-- 4. <a href="#vscodeext">Extensiones de Visual Studio Code</a>
 
@@ -33,17 +37,22 @@ width="150"/>
 
    4.6  <a href="#spell">Extensión de corrector ortográfico</a> -->
 
-5. <a href="#github">GitHub</a>
+5. [GitHub](#github)
 
-6. <a href="#git">Git</a>
+6. [Git](#git)
 
-7. <a href="#doxygen">Doxygen</a>
+7. [Doxygen](#doxygen)
+
 ---
 
-<h3 id="about">1. <a href="#content">Acerca de este documento</a></h3>
-Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Puedes instalar las herramientas tanto en ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) como en ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white); en caso de usar otro sistema operativo, consulta a los profesores.
+### Acerca de este documento
 
-<h3 id="dotnet">2. <a href="#content">.NET 8.0</a></h3>
+Este documento contiene la lista de herramientas que usaremos en el curso, con los vínculos a los sitios oficiales de descarga. Puedes instalar las herramientas tanto en
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) como en
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white); en caso de usar otro sistema operativo, consulta a los profesores.
+
+### .NET 8.0
+
 .NET 8.0 esla nueva plataforma unificada de Microsft para el desarrollo de aplicaciones modernas. Las instrucciones de instalación están disponibles a través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de descarga</a>.
 
 >:warning: Importante
@@ -57,7 +66,8 @@ Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y 
 > instrucciones provistas o instalarlo en clase; trae el programa de instalación
 > descargado para la próxima clase -->
 
-<h3 id="rider">3. <a href="#content">Rider</a></h3>
+<!-- <h3 id="rider">3. <a href="#content">Rider</a></h3> -->
+### Rider
 
 Rider es un IDE multiplataforma para desarrollo en .NET desarrollado por
 JetBrains que puede ser utilizado con una licencia académica.
@@ -99,7 +109,8 @@ Es un complemento que incluye un conjunto de íconos para las extensiones de arc
 <h4 id="spell">4.6 <a href="#content">Extensión de corrector ortográfico</a></h4>
 Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales. -->
 
-<h3 id="riderext">4. <a href="#content">Extensiones de Rider</a></h3>
+<!-- <h3 id="riderext">4. <a href="#content">Extensiones de Rider</a></h3> -->
+### Extensiones de Rider
 
 >:warning: Importante
 > Es necesario instalar las siguientes extensiones **luego** de instalar Rider.
@@ -109,7 +120,8 @@ Son complementos que controlan la ortografía en <a href="https://marketplace.vi
 
 Por ahora no hay extensiones recomendadas.
 
-<h3 id="github">5. <a href="#content">GitHub</a></h3>
+<!-- <h3 id="github">5. <a href="#content">GitHub</a></h3> -->
+### Github
 GitHub es un servicio en línea para desarrollar programas en forma colaborativa. Está basado en Git e incluye funcionalidad adicional útil para el desarrollo de algunas competencias de este curso.
 
 >:warning: Importante
@@ -117,10 +129,13 @@ GitHub es un servicio en línea para desarrollar programas en forma colaborativa
 
 Los profesores veremos el código y las interacciones en GitHub de todos los alumnos; eventualmente modificaremos ese código o participaremos en las interacciones. Los profesores también proveeremos código en GitHub. Debes crear una cuenta en GitHub, o puedes usar una cuenta que ya tengas creada. Ya sea que crees una cuenta nueva, o que uses una que ya tengas, ten en cuenta que deberás usar la misma cuenta a lo largo de todo el curso. Los profesores te preguntaremos el nombre de usuario de <a href="https://github.com/join">GitHub</a>.
 
-<h3 id="git">6. <a href="#content">Git</a></h3>
+<!-- <h3 id="git">6. <a href="#content">Git</a></h3> -->
+### Git
+
 Para poder gestionar los repositorios de GitHub a través de aplicación de escritorio o de la consola, se requiere instalar Git SCM. Las instrucciones de instalación están disponibles a través de este <a href="https://git-scm.com/downloads">🌎vínculo de descarga</a>.
 
-<h3 id="doxygen">7. <a href="#content">Doxygen</a></h3>
+<!-- <h3 id="doxygen">7. <a href="#content">Doxygen</a></h3> -->
+### Doxygen
 
 Es un paquete para la generación de sitios web de documentación a partir de comentarios XML.
 

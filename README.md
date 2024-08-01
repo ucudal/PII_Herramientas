@@ -84,6 +84,11 @@ Rider a través de este <a
 href="https://www.jetbrains.com/shop/download/RD/2024100">🌎vínculo de
 descarga</a>.
 
+Luego de que instales Rider deberás activarlo:
+
+<img src="./Assets/Rider activation.gif" width="666" height="500"/>
+
+
 <!-- <h3 id="vscodeext">4. <a href="#content">Extensiones de Visual Studio Code</a></h3>
 
 >:warning: Importante

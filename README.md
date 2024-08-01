@@ -14,10 +14,9 @@ width="150"/>
 
 1. [Acerca de este documento](#acerca-de-este-documento)
 
-2.[NET 8.0](#net-80)
+3. [NET 8.0](#net-80)
 
-
-3. [Rider](#rider)
+4. [Rider](#rider)
 
 <!-- 3. <a href="#vscode">Visual Studio Code</a> -->
 

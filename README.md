@@ -1,16 +1,17 @@
+<!-- markdownlint-disable MD033 MD041-->
 <img alt="UCU" src="https://www.ucu.edu.uy/plantillas/images/logo_ucu.svg"
 width="150"/>
-# Universidad Católica del Uruguay
-## Facultad de Ingeniería y Tecnologías
-### Programación II
+<!-- markdownlint-enable MD033 MD041 -->
 
+# Universidad Católica del Uruguay
+
+## Facultad de Ingeniería y Tecnologías
+
+### Programación II
 
 # Herramientas del curso
 
-<!-- <h2 id="content">Contenido</h2> -->
 ## Contenido
-
-<!-- 1. <a href="#about">Acerca de este documento</a> -->
 
 1. [Acerca de este documento](#acerca-de-este-documento)
 
@@ -19,7 +20,8 @@ width="150"/>
 3. IDE. El IDE —o *interactive development environment*— es la herramienta que
    usamos para escribir el código, compilar, depurar, hacer pruebas, etc. El IDE
    que recomendamos es [Rider](#rider) pero en computadoras con menores
-   presentaciones puede tener mejor desempeño [Visual Studio Code](#vscode).
+   presentaciones puede tener mejor desempeño [Visual Studio
+   Code](#visual-studio-code).
 
 4. Extensiones. Ambos IDE soportan extensiones. En el caso de Rider no necesitas
    instalar ninguna; al contrario, puedes [desinstalar o
@@ -82,9 +84,9 @@ Luego de que instales Rider deberás activarlo:
 ### Visual Studio Code
 
 > [!TIP]
-> Instala Visual Studio Code solamente si tienes problemas de desempeño en tu
-> computadora con Rider. Si decides instalar Visual Studio Code y has instalado
-> antes Rider, deberías desinstalar Rider.
+> Instala Visual Studio Code si tienes problemas de desempeño en tu computadora
+> con Rider. Si decides instalar Visual Studio Code y has instalado antes Rider,
+> deberías desinstalar Rider.
 
 Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y
 macOS. Incluye soporte para la depuración, control integrado de Git, resaltado
@@ -185,12 +187,19 @@ href="https://git-scm.com/downloads">🌎vínculo de descarga</a>.
 
 Hemos visto que en
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-puede ser necesario ejecutar estos dos comandos:
+puede ser necesario ejecutar estos dos comandos **antes** de usar Git por
+primera vez:
 
 ```bash
 brew install --cask git-credential-manager
 git config --global credential.helper manager
 ```
+
+En
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+Git usa el `Credential Store` la primera vez que uses los comandos que requieren
+identificar al usuario; te va a abrir el navegador para solicitar las
+credenciales.
 
 ### Doxygen
 
@@ -214,7 +223,7 @@ Es un paquete para la generación de sitios web de documentación a partir de co
 
 > [!WARNING]
 > En
-> ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+> ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 > puede suceder que durante la instalación no agregue la carpeta donde está
 > `doxygen.exe` a la variable de entorno `PATH`. En ese caso debes [modificar
 > esa variable de

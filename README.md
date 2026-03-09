@@ -17,16 +17,11 @@ width="150"/>
 
 2. [NET 8.0](#net-80)
 
-3. IDE. El IDE —o *interactive development environment*— es la herramienta que
+3. IDE. El IDE —o *integrated development environment*— es la herramienta que
    usamos para escribir el código, compilar, depurar, hacer pruebas, etc. El IDE
-   que recomendamos es [Rider](#rider) pero en computadoras con menores
-   presentaciones puede tener mejor desempeño [Visual Studio
-   Code](#visual-studio-code).
+   que recomendamos es [Visual Studio Code](#visual-studio-code).
 
-4. Extensiones. Ambos IDE soportan extensiones. En el caso de Rider no necesitas
-   instalar ninguna; al contrario, puedes [desinstalar o
-   inhabilitar](#extensiones-innecesarias-de-rider) las que no usamos para
-   mejorar el desempeño. En el caso de Visual Studio Code debes instalar
+4. Extensiones. En el caso de Visual Studio Code debes instalar
    necesariamente estas [extensiones](#extensiones-de-visual-studio-code).
 
 5. [GitHub](#github)
@@ -51,7 +46,7 @@ en caso de usar otro sistema operativo, consulta a los profesores.
 
 .NET 8.0 es la nueva plataforma unificada de Microsft para el desarrollo de
 aplicaciones modernas. Las instrucciones de instalación están disponibles a
-través este <a href="https://dotnet.microsoft.com/download">🌎vínculo de
+través este <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0">🌎vínculo de
 descarga</a>.
 
 > [!WARNING]
@@ -59,34 +54,7 @@ descarga</a>.
 > instrucciones provistas o instalarlo en clase; trae el programa de instalación
 > descargado para la próxima clase.
 
-### Rider
-
-Rider es un IDE multiplataforma para desarrollo en .NET desarrollado por
-JetBrains que puede ser utilizado con una licencia académica.
-
-> [!WARNING]
-> Debes usar tu cuenta de correo de la UCU del dominio @correoucu.edu.uy para
-> crear tu cuenta en JetBrains.
-
-Para obtener tu licencia debes crear primero una cuenta en JetBrains
-[aquí](https://www.jetbrains.com/community/education/#students).
-
-Esta licencia te dará acceso a varios productos; a menos que en tu trabajo o en
-otros cursos uses otras herramientas de JetBrains, deberás instalar solamente
-Rider a través de este <a
-href="https://www.jetbrains.com/shop/download/RD/2024100">🌎vínculo de
-descarga</a>.
-
-Luego de que instales Rider deberás activarlo:
-
-<img src="./Assets/Rider activation.gif" width="666" height="500"/>
-
 ### Visual Studio Code
-
-> [!TIP]
-> Instala Visual Studio Code si tienes problemas de desempeño en tu computadora
-> con Rider. Si decides instalar Visual Studio Code y has instalado antes Rider,
-> deberías desinstalar Rider.
 
 Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y
 macOS. Incluye soporte para la depuración, control integrado de Git, resaltado
@@ -143,11 +111,6 @@ href="https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-the
 #### Extensión de corrector ortográfico
 
 Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales.
-
-### Extensiones innecesarias de Rider
-
-Puedes desinstalar o inhabilitar estas extensiones de Rider, porque no las
-usaremos en este curso.
 
 * AWS Core
 

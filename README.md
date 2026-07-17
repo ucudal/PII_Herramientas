@@ -15,7 +15,7 @@ width="150"/>
 
 1. [Acerca de este documento](#acerca-de-este-documento)
 
-2. [NET 8.0](#net-80)
+2. [NET 10.0](#net-100)
 
 3. IDE. El IDE —o *integrated development environment*— es la herramienta que
    usamos para escribir el código, compilar, depurar, hacer pruebas, etc. El IDE
@@ -42,11 +42,11 @@ como en
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white);
 en caso de usar otro sistema operativo, consulta a los profesores.
 
-### .NET 8.0
+### .NET 10.0
 
-.NET 8.0 es la nueva plataforma unificada de Microsft para el desarrollo de
+.NET 10.0 es la nueva plataforma unificada de Microsft para el desarrollo de
 aplicaciones modernas. Las instrucciones de instalación están disponibles a
-través este <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0">🌎vínculo de
+través este <a href="https://dotnet.microsoft.com/en-us/download/dotnet/10.0">🌎vínculo de
 descarga</a>.
 
 > [!WARNING]
@@ -112,21 +112,11 @@ href="https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-the
 
 Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales.
 
-* AWS Core
+### GitHub
 
-* AWS Toolkit
-
-* Azure Toolkit
-
-* JetBrains AI Assistant
-
-* SpecFlow
-
-* Database Tools and SQL
-
-### Github
-
-GitHub es un servicio en línea para desarrollar programas en forma colaborativa. Está basado en Git e incluye funcionalidad adicional útil para el desarrollo de algunas competencias de este curso.
+GitHub es un servicio en línea para desarrollar programas en forma colaborativa.
+Está basado en Git e incluye funcionalidad adicional útil para el desarrollo de
+algunas competencias de este curso.
 
 > [!WARNING]
 > El código de los programas en GitHub que crees y las interacciones en marco
@@ -166,16 +156,9 @@ credenciales.
 
 ### Doxygen
 
-Es un paquete para la generación de sitios web de documentación a partir de comentarios XML.
-
-> [!TIP]
-> Las instrucciones de instalación están disponibles en [esta
-> página](https://www.doxygen.nl/download.html) en la sección "A binary
-> distribution for Linux x86-64", "A binary distribution for Windows" o "A
-> binary distribution for Mac OS X 10.14 and later"; usa la que corresponda
-> según el sistema operativo que tengas.
-
-<a href="https://www.doxygen.nl/download.html">🌎 Instalación</a>
+Es un paquete para la generación de sitios web de documentación a partir de
+comentarios XML. Las instrucciones de instalación están disponibles en este <a
+href="https://www.doxygen.nl/download.html">🌎 vínculo de descarga</a>.
 
 > [!WARNING]
 > En

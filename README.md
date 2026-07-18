@@ -42,6 +42,11 @@ como en
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white);
 en caso de usar otro sistema operativo, consulta a los profesores.
 
+> [!IMPORTANT]
+> Este documento y otros que usaremos durante el curso asumen que para la
+> instalación de las herramientas usas las opciones predeterminadas. No las
+> cambies a menos que sepas lo que estás haciendo.
+
 ### .NET 10.0
 
 .NET 10.0 es la nueva plataforma unificada de Microsft para el desarrollo de
@@ -110,7 +115,11 @@ href="https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-the
 
 #### Extensión de corrector ortográfico
 
-Son complementos que controlan la ortografía en <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a> para :gb: y <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>para :es:. Ambos son opcionales.
+Son complementos que controlan la ortografía en el código y los documentos. <a
+href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">🌎Descargar</a>
+para :gb: y <a
+href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish">🌎Descargar</a>
+para :es:. Ambos son opcionales.
 
 ### GitHub
 
